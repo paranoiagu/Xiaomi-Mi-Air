@@ -1010,9 +1010,9 @@
 		<key>Quirks</key>
 		<dict>
 			<key>AppleCpuPmCfgLock</key>
-			<true/>
+			<false/>
 			<key>AppleXcpmCfgLock</key>
-			<true/>
+			<false/>
 			<key>AppleXcpmExtraMsrs</key>
 			<false/>
 			<key>AppleXcpmForceBoost</key>
@@ -1207,7 +1207,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02901401GUHWVP1M</string>
+			<string>C02847701QXHWVPAD</string>
 			<key>ROM</key>
 			<data></data>
 			<key>SpoofVendor</key>
@@ -1215,9 +1215,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Y20LQHV29</string>
+			<string>C02XQUZQHV29</string>
 			<key>SystemUUID</key>
-			<string>40D57E1F-05BA-4084-892A-52C340A40BF2</string>
+			<string>29A29DD1-D05B-4199-820C-399B58EE812E</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
