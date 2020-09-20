@@ -2,7 +2,7 @@
 Hi, this is Johnny, I'm an Engineering student. Life and university studies are expensive and the work is hard. My repositories are free, please consider rewarding me. Thank you.
 
 ### 4 ways to support me:
-1. [Reward me on PayPal](https://www.paypal.me/johnnync13) or entry to my pool and win money [Kuailian](http://app.kuailiandp.com/auth/register/ref/a03805be-c118-4962-9bbe-87dfceb67802)
+1. [Reward me on PayPal](https://www.paypal.me/johnnync13) or entry to my pool and win money [Kuailian](http://app.kuailiandp.com/auth/register/ref/a03805be-c118-4962-9bbe-87dfceb67802) or my WeChat ID: johnnync13
 2. Donate BTC: 3R13Ye85VwuzrBEJf32dZgREHsFsFpoG4m
 3. Donate ETH: 0x13f430523CAB662faA6924D6fbA4FdFA973A693b
 4. Please give me feedback: Open (or help with) [issues](https://github.com/johnnync13/Xiaomi-Mi-Air/issues) or fork and send a pull request if you find some improvements to be made!
@@ -42,9 +42,9 @@ sudo kextload -v /Volumes/USB/HoRNDIS.kext
 * FileVault Disk encryption (Always make a backup before switching on!!!)
 
 ### Half working:
-* [Wifi Intel](https://github.com/johnnync13/Xiaomi-Mi-Air/tree/master/WIFI) (still buggy for now)
+* [Wifi Intel](https://github.com/johnnync13/Xiaomi-Mi-Air/tree/master/WIFI) Is stable now. Only implemented 11n stack but in the future 11ac y 11ax will be implemented. You only need install HeliPort app.
 * Bluetooth Intel (no Airdrop, Handoff or Continuity on Intel BT)
-**Caution: Intel Bluetooth kexts can cause frequent kernel panics / crashes when using sleep/wake. Either disable Bluetooth kexts or make sure the laptop doesn't sleep. Please see the [numerous issues](https://github.com/johnnync13/Xiaomi-Mi-Air/issues?q=is%3Aissue+is%3Aclosed+panic+sleep) for more info.**
+**Caution: Intel Bluetooth kexts can cause frequent kernel panics / crashes when using sleep/wake. This now is fixed on the last version kext
 
 ### Not working:
 * Nvidia GPU (MX150/GP108) (Not supported under macOS and probably never will be)
